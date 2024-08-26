@@ -9,5 +9,6 @@ The project used normalization techniques to improve data integrity and minimize
 
 ## Database Design
 The project uses QuickDBD, a database design tool, to create a visual representation of the database schema. QuickDBD allows the user to specify tables and their fields and then produces a diagram of the database and its tables.
+![alt text](./Images/database_diagram.png)
 
 ![alt text](./Images/orders_dasboard.PNG)
