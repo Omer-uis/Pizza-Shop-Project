@@ -13,7 +13,7 @@ The project uses QuickDBD, a database design tool, to create a visual representa
 
 ## SQL Queries
 The project involves writing custom SQL queries to extract data from the database and execute them in MySQL workbench. SQL queries are used to retrieve data from the database, filter data, and perform calculations on the data available in multiple tables.
-![alt text](./Images/query_image.png)
+![alt text](./Images/query_image.PNG)
 
 ## Interactive Dashboards
 The project uses PowerBI to integrate it with MySQL database. PowerBI is used to create interactive dashboards to help monitor business performance. Three different dashboards are created to provide essential information related to customer orders, stock levels, and staff management.
